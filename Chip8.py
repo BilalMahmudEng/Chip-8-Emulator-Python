@@ -1,3 +1,5 @@
+# Author: Bilal Mahmud
+
 import tkinter as tk
 import time
 import sys
